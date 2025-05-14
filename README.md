@@ -17,14 +17,13 @@ Zero-friction code deployment. Full control. No dashboards. No configs. One scri
 
 ## How it Works?
 
-Harp00n is a bash script that sets up your fresh new Linux host (Ubuntu 24.10 or later)
-in such a way that when you commit to github, your code it automatically pulled and updated.
-It also automatically obtains an SSL certificate and sets up a GitHub webhook for you.
+Harp00n is a bash script it set up your fresh new Linux host (Ubuntu 24.10 or later)
+in such a way that when you commit to github, your code is automatically pulled and deployed.
+Harp00n also automatically obtains an SSL certificate and sets up a GitHub webhook for you.
 
-Your deplyment can can be a simple web server or a more complex set of containers.
+Your deplyment can be a simple web server or a more complex set of containers.
 
-We do not dictate what your code does but we provide examples of how to
-deploy containers using Harp00n.
+Below we provide examples of how to deploy containers using Harp00n.
 
 ### Steps
 
